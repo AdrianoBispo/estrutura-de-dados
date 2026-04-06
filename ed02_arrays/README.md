@@ -1,0 +1,82 @@
+# Array Data Structure
+
+An array is a fundamental and linear data structure that stores items at contiguous locations. Note that in case of C/C++ and Java-Primitive-Arrays, actual elements are stored at contiguous locations. And in case of Python, JS, Java-Non-Primitive, references are stored at contiguous locations. It offers mainly the following advantages over other data structures.
+
+-   ****Random Access**** : i-th item can be accessed in O(1) Time as we have the base address and every item or reference is of same size.
+-   ****Cache Friendliness**** : Since items / references are stored at contiguous locations, we get the advantage of locality of reference.
+
+Arrays are used to build other data structures like Stack Queue, Deque, Graph, Hash Table, etc. An array is not useful in places where we have operations like insert in the middle, delete from middle and search in a unsorted data.
+
+## Basics
+
+- [Introduction](https://www.geeksforgeeks.org/dsa/introduction-to-arrays-data-structure-and-algorithm-tutorials/)
+- [Applications](https://www.geeksforgeeks.org/dsa/applications-advantages-and-disadvantages-of-array-data-structure/)   
+
+## Basic Problems
+
+- [Print Alternates](https://www.geeksforgeeks.org/dsa/print-alternate-elements-of-an-array/)
+- [Leaders in an array](https://www.geeksforgeeks.org/dsa/leaders-in-an-array/)
+- [Remove Duplicates from Sorted](https://www.geeksforgeeks.org/dsa/remove-duplicates-sorted-array/)
+- [Generate all Subarrays](https://www.geeksforgeeks.org/dsa/generating-subarrays-using-recursion/)
+- [Reverse an Array](https://www.geeksforgeeks.org/dsa/program-to-reverse-an-array/)
+- [Rotate an Array](https://www.geeksforgeeks.org/dsa/complete-guide-on-array-rotations/)
+- [Zeroes to End](https://www.geeksforgeeks.org/dsa/move-zeroes-end-array/)
+- [Min Increments to Make Equal](https://www.geeksforgeeks.org/dsa/minimum-increment-k-operations-make-elements-equal/)[](https://www.geeksforgeeks.org/dsa/equilibrium-index-of-an-array/)
+- [Min Cost to Make Size 1](https://www.geeksforgeeks.org/dsa/minimum-cost-make-array-size-1-removing-larger-pairs/)
+
+### ****Easy Problems****
+
+- [Second Largest Element](https://www.geeksforgeeks.org/dsa/find-second-largest-element-array/)
+- [Third Largest Element](https://www.geeksforgeeks.org/dsa/third-largest-element-array-distinct-elements/)
+- [Reverse an Array](https://www.geeksforgeeks.org/dsa/program-to-reverse-an-array/)
+- [Reverse Array in Groups](https://www.geeksforgeeks.org/dsa/reverse-an-array-in-groups-of-given-size/)
+- [Rotate Array](https://www.geeksforgeeks.org/dsa/array-rotation/)
+- [Three Great Candidates](https://www.geeksforgeeks.org/dsa/find-maximum-product-of-a-triplet-in-array/)
+- [Max Consecutive Ones](https://www.geeksforgeeks.org/dsa/maximum-consecutive-ones-or-zeros-in-a-binary-array/)
+- [Move All Zeroes To End](https://www.geeksforgeeks.org/dsa/move-zeroes-end-array/)
+- [Wave Array](https://www.geeksforgeeks.org/dsa/sort-array-wave-form-2/)
+- [Plus One](https://www.geeksforgeeks.org/dsa/adding-one-to-number-represented-as-array-of-digits/)
+- [Stock Buy and Sell – One Transaction](https://www.geeksforgeeks.org/dsa/best-time-to-buy-and-sell-stock/)
+- [Stock Buy and Sell – Multiple Transactions](https://www.geeksforgeeks.org/dsa/stock-buy-sell/)
+- [Remove Duplicates from Sorted Array](https://www.geeksforgeeks.org/dsa/remove-duplicates-sorted-array/)
+- [Alternate Positive Negative](https://www.geeksforgeeks.org/dsa/rearrange-array-alternating-positive-negative-items-o1-extra-space/)
+- [Array Leaders](https://www.geeksforgeeks.org/dsa/leaders-in-an-array/)
+- [Missing and Repeating in Array](https://www.geeksforgeeks.org/dsa/find-a-repeating-and-a-missing-number/)
+- [Missing Ranges of Numbers](https://www.geeksforgeeks.org/dsa/missing-ranges-of-numbers/)
+- [Sum of all Subarrays](https://www.geeksforgeeks.org/dsa/sum-of-all-subarrays/)
+
+### ****Medium Problems****
+
+- [Next Permutation](https://www.geeksforgeeks.org/dsa/next-permutation/)
+- [Majority Element](https://www.geeksforgeeks.org/dsa/majority-element/)
+- [Majority Element II](https://www.geeksforgeeks.org/dsa/find-all-array-elements-occurring-more-than-floor-of-n-divided-by-3-times/)
+- [Minimize the Heights II](https://www.geeksforgeeks.org/dsa/minimize-the-maximum-difference-between-the-heights/)
+- [Maximum Subarray Sum](https://www.geeksforgeeks.org/dsa/largest-sum-contiguous-subarray/)
+- [Maximum Product Subarray](https://www.geeksforgeeks.org/dsa/maximum-product-subarray/)
+- [Product of Array Except Self](https://www.geeksforgeeks.org/dsa/a-product-array-puzzle/)
+- [Subarrays with Product Less Than K](https://www.geeksforgeeks.org/dsa/number-subarrays-product-less-k/)
+- [Split Into Three Equal Sum Segments](https://www.geeksforgeeks.org/dsa/split-array-three-equal-sum-subarrays/)
+- [Maximum Consecutive 1s After Flipping 0s](https://www.geeksforgeeks.org/dsa/find-zeroes-to-be-flipped-so-that-number-of-consecutive-1s-is-maximized/)
+- [Last Moment Before Ants Fall Out of Plank](https://www.geeksforgeeks.org/dsa/last-moment-before-all-ants-fall-out-of-a-plank/)
+- [Find 0 with Farthest 1s in a Binary](https://www.geeksforgeeks.org/dsa/find-a-seat-with-distance-between-nearest-occupied-seats-maximised/)
+- [Intersection of Interval Lists](https://www.geeksforgeeks.org/dsa/find-intersection-of-intervals-given-by-two-lists/)
+- [Rearrange Array Elements by Sign](https://www.geeksforgeeks.org/dsa/rearrange-array-alternating-positive-negative-items-o1-extra-space/)
+- [Meeting Scheduler for Two Persons](https://www.geeksforgeeks.org/dsa/meeting-scheduler-for-two-persons/)
+- [Longest Mountain Subarray](https://www.geeksforgeeks.org/dsa/longest-mountain-subarray/)
+- [Transform and Sort Array](https://www.geeksforgeeks.org/dsa/sort-array-applying-given-equation/)
+- [Minimum Swaps To Group All Ones](https://www.geeksforgeeks.org/dsa/minimum-swaps-required-group-1s-together/)
+- [Minimum Moves To Equalize Array](https://www.geeksforgeeks.org/dsa/minimum-number-increment-operations-make-array-elements-equal/)
+- [Minimum Indices To Equal Even-Odd Sums](https://www.geeksforgeeks.org/dsa/count-ways-to-make-sum-of-odd-and-even-indexed-elements-equal-by-removing-an-array-element/)
+
+### ****Hard Problems****
+
+- [Trapping Rain Water](https://www.geeksforgeeks.org/dsa/trapping-rain-water/)
+- [Maximum Circular Subarray Sum](https://www.geeksforgeeks.org/dsa/maximum-contiguous-circular-sum/)
+- [Smallest Missing Positive Number](https://www.geeksforgeeks.org/dsa/find-the-smallest-positive-number-missing-from-an-unsorted-array/)
+- [Jump Game](https://www.geeksforgeeks.org/dsa/minimum-number-of-jumps-to-reach-end-of-a-given-array/)
+- [Closest Subsequence Sum](https://www.geeksforgeeks.org/dsa/find-the-closest-subsequence-sum-to-target/)
+- [Smallest Non-Representable Sum in Array](https://www.geeksforgeeks.org/dsa/find-smallest-value-represented-sum-subset-given-array/)
+- [Smallest Range Having Elements From K Lists](https://www.geeksforgeeks.org/dsa/find-smallest-range-containing-elements-from-k-lists/)
+- [Count Subarrays with K Distinct Elements](https://www.geeksforgeeks.org/dsa/count-of-subarrays-having-exactly-k-distinct-elements/)
+- [Next Smallest Palindrome](https://www.geeksforgeeks.org/dsa/given-a-number-find-next-smallest-palindrome-larger-than-this-number/)
+- [Maximum Sum Among All Rotations](https://www.geeksforgeeks.org/dsa/maximum-sum-iarri-among-rotations-given-array/)
