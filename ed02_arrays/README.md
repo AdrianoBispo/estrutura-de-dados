@@ -1,18 +1,20 @@
-# Array Data Structure
+# Estrutura de Dados Array
 
-An array is a fundamental and linear data structure that stores items at contiguous locations. Note that in case of C/C++ and Java-Primitive-Arrays, actual elements are stored at contiguous locations. And in case of Python, JS, Java-Non-Primitive, references are stored at contiguous locations. It offers mainly the following advantages over other data structures.
+Array é uma estrutura de dados linear fundamental que armazena elementos em posições contíguas. Em C/C++ e em arrays primitivos de Java, os valores ficam contíguos em memória. Em Python, JavaScript e objetos não primitivos em Java, o que fica contíguo são as referências.
 
--   ****Random Access**** : i-th item can be accessed in O(1) Time as we have the base address and every item or reference is of same size.
--   ****Cache Friendliness**** : Since items / references are stored at contiguous locations, we get the advantage of locality of reference.
+Vantagens principais:
 
-Arrays are used to build other data structures like Stack Queue, Deque, Graph, Hash Table, etc. An array is not useful in places where we have operations like insert in the middle, delete from middle and search in a unsorted data.
+- Acesso aleatório: o elemento de índice `i` pode ser acessado em `O(1)`.
+- Boa localidade de referência: tende a aproveitar melhor cache.
 
-## Basics
+Arrays também são base para outras estruturas, como pilha, fila, deque, grafo e tabela hash.
+
+## Fundamentos
 
 - [Introduction](https://www.geeksforgeeks.org/dsa/introduction-to-arrays-data-structure-and-algorithm-tutorials/)
-- [Applications](https://www.geeksforgeeks.org/dsa/applications-advantages-and-disadvantages-of-array-data-structure/)   
+- [Applications](https://www.geeksforgeeks.org/dsa/applications-advantages-and-disadvantages-of-array-data-structure/)
 
-## Basic Problems
+## Problemas Básicos
 
 - [Print Alternates](https://www.geeksforgeeks.org/dsa/print-alternate-elements-of-an-array/)
 - [Leaders in an array](https://www.geeksforgeeks.org/dsa/leaders-in-an-array/)
@@ -21,10 +23,10 @@ Arrays are used to build other data structures like Stack Queue, Deque, Graph, H
 - [Reverse an Array](https://www.geeksforgeeks.org/dsa/program-to-reverse-an-array/)
 - [Rotate an Array](https://www.geeksforgeeks.org/dsa/complete-guide-on-array-rotations/)
 - [Zeroes to End](https://www.geeksforgeeks.org/dsa/move-zeroes-end-array/)
-- [Min Increments to Make Equal](https://www.geeksforgeeks.org/dsa/minimum-increment-k-operations-make-elements-equal/)[](https://www.geeksforgeeks.org/dsa/equilibrium-index-of-an-array/)
+- [Min Increments to Make Equal](https://www.geeksforgeeks.org/dsa/minimum-increment-k-operations-make-elements-equal/)
 - [Min Cost to Make Size 1](https://www.geeksforgeeks.org/dsa/minimum-cost-make-array-size-1-removing-larger-pairs/)
 
-### ****Easy Problems****
+## Problemas Fáceis
 
 - [Second Largest Element](https://www.geeksforgeeks.org/dsa/find-second-largest-element-array/)
 - [Third Largest Element](https://www.geeksforgeeks.org/dsa/third-largest-element-array-distinct-elements/)
@@ -45,7 +47,7 @@ Arrays are used to build other data structures like Stack Queue, Deque, Graph, H
 - [Missing Ranges of Numbers](https://www.geeksforgeeks.org/dsa/missing-ranges-of-numbers/)
 - [Sum of all Subarrays](https://www.geeksforgeeks.org/dsa/sum-of-all-subarrays/)
 
-### ****Medium Problems****
+## Problemas Médios
 
 - [Next Permutation](https://www.geeksforgeeks.org/dsa/next-permutation/)
 - [Majority Element](https://www.geeksforgeeks.org/dsa/majority-element/)
@@ -68,7 +70,7 @@ Arrays are used to build other data structures like Stack Queue, Deque, Graph, H
 - [Minimum Moves To Equalize Array](https://www.geeksforgeeks.org/dsa/minimum-number-increment-operations-make-array-elements-equal/)
 - [Minimum Indices To Equal Even-Odd Sums](https://www.geeksforgeeks.org/dsa/count-ways-to-make-sum-of-odd-and-even-indexed-elements-equal-by-removing-an-array-element/)
 
-### ****Hard Problems****
+## Problemas Difíceis
 
 - [Trapping Rain Water](https://www.geeksforgeeks.org/dsa/trapping-rain-water/)
 - [Maximum Circular Subarray Sum](https://www.geeksforgeeks.org/dsa/maximum-contiguous-circular-sum/)
