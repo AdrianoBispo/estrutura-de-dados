@@ -1,20 +1,6 @@
-# Estrutura de Dados Array
-
 ![Guia Visual sobre Arrays em Estruturas de Dados](../infograficos/Arrays%20-%20O%20Alicerce%20da%20Eficiência%20Computacional.png)
 
-Array é uma estrutura de dados linear fundamental que armazena elementos em posições contíguas. Em C/C++ e em arrays primitivos de Java, os valores ficam contíguos em memória. Em Python, JavaScript e objetos não primitivos em Java, o que fica contíguo são as referências.
-
-Vantagens principais:
-
-- Acesso aleatório: o elemento de índice `i` pode ser acessado em `O(1)`.
-- Boa localidade de referência: tende a aproveitar melhor cache.
-
-Arrays também são base para outras estruturas, como pilha, fila, deque, grafo e tabela hash.
-
-## Fundamentos
-
-- [Introduction](https://www.geeksforgeeks.org/dsa/introduction-to-arrays-data-structure-and-algorithm-tutorials/)
-- [Applications](https://www.geeksforgeeks.org/dsa/applications-advantages-and-disadvantages-of-array-data-structure/)
+> Para saber mais, acesse: [Geeks for Geeks - Array Data Structure](https://www.geeksforgeeks.org/dsa/array-data-structure-guide/)
 
 ## Problemas Básicos
 
