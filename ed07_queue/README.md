@@ -1,5 +1,7 @@
 # Estrutura de Dados Fila (Queue)
 
+![Guia Visual sobre a Estrutura de Dados Fila (Queue)](../infograficos/Descomplicando%20a%20Fila%20(Queue)%20-%20O%20Guia%20Visual%20do%20FiFo.png)
+
 Fila é uma estrutura de dados linear baseada no princípio FIFO (First In, First Out): o primeiro elemento que entra é o primeiro que sai.
 
 - Muito usada como buffer em sistemas com diferenças de velocidade entre dispositivos.
