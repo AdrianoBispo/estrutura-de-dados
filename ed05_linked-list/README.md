@@ -1,38 +1,6 @@
-# Estrutura de Dados Lista Encadeada
-
 ![Guia Visual sobre Lista Encadeada](../infograficos/Desvendando%20a%20Estrutura%20de%20Dados%20Linked%20List.png)
 
-Lista encadeada é uma estrutura fundamental da computação. Em comparação com arrays, facilita operações de inserção e remoção em diferentes posições.
-
-Nessa estrutura, os elementos (nós) não precisam estar em posições contíguas de memória.
-
-- Cada nó contém dados e um ponteiro (link) para o próximo nó.
-- O primeiro nó é chamado de cabeça (`head`) e permite percorrer toda a lista.
-
-![Linked-list](https://media.geeksforgeeks.org/wp-content/uploads/20250619155958124670/Linked-list.webp "Click to enlarge")
-
-## Comparação: Lista Encadeada x Array
-
-**Lista Encadeada**
-
-- Estrutura: não contígua
-- Alocação de memória: elemento a elemento
-- Inserção/remoção: eficiente
-- Acesso: sequencial
-
-**Array**
-
-- Estrutura: contígua
-- Alocação de memória: bloco único
-- Inserção/remoção: menos eficiente
-- Acesso: aleatório
-
-## Fundamentos
-
-- [Singly Linked List](https://www.geeksforgeeks.org/dsa/singly-linked-list-tutorial/)
-- [Doubly Linked List](https://www.geeksforgeeks.org/dsa/doubly-linked-list/)
-- [Circular Linked List](https://www.geeksforgeeks.org/dsa/circular-linked-list/)
-- [Applications and Advantages](https://www.geeksforgeeks.org/dsa/applications-advantages-and-disadvantages-of-linked-list/)
+> Para saber mais, acesse: [Geeks for Geeks - Linked List Data Structure](https://www.geeksforgeeks.org/dsa/linked-list-data-structure/)
 
 ## Operações
 
