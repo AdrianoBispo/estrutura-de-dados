@@ -1,5 +1,7 @@
 # Estrutura de Dados Lista Encadeada
 
+![Guia Visual sobre Lista Encadeada](../infograficos/Desvendando%20a%20Estrutura%20de%20Dados%20Linked%20List.png)
+
 Lista encadeada é uma estrutura fundamental da computação. Em comparação com arrays, facilita operações de inserção e remoção em diferentes posições.
 
 Nessa estrutura, os elementos (nós) não precisam estar em posições contíguas de memória.
