@@ -1,5 +1,7 @@
 # Estrutura de Dados Grafo
 
+![Guia Visual da Estrutura de Dados Grafos](../infograficos/Conectando%20o%20Mundo%20-%20O%20Universo%20dos%20Grafos.png)
+
 Grafo é uma coleção de nós conectados por arestas, usada para representar relacionamentos entre entidades.
 
 Se você procura conteúdos por tópico (DFS, BFS, ordenação topológica, caminhos mínimos etc.), consulte também [Graph Algorithms](https://www.geeksforgeeks.org/dsa/graph-data-structure-and-algorithms/).
