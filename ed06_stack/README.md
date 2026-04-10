@@ -1,32 +1,6 @@
-# Estrutura de Dados Pilha (Stack)
-
 ![usecases_of_stack232.webp](https://media.geeksforgeeks.org/wp-content/uploads/20250708173836670891/usecases_of_stack232.webp)
 
-Uma pilha é uma estrutura de dados linear que segue, em geral, a ordem LIFO (Last In, First Out), em que o último elemento inserido é o primeiro a sair.
-
-![push232.webp](https://media.geeksforgeeks.org/wp-content/uploads/20250708173723170760/push232.webp)
-
-Analogia comum: uma pilha de pratos.
-
-- `push`: adiciona no topo.
-- `pop`: remove do topo.
-
-## Fundamentos
-
-- [Introduction](https://www.geeksforgeeks.org/dsa/introduction-to-stack-data-structure-and-algorithm-tutorials/)
-- [Applications](https://www.geeksforgeeks.org/dsa/applications-advantages-and-disadvantages-of-stack/)
-- [Array Implementation](https://www.geeksforgeeks.org/dsa/implement-stack-using-array/)
-- [Linked List Implementation](https://www.geeksforgeeks.org/dsa/implement-a-stack-using-singly-linked-list/)
-- [Implementation using Deque](https://www.geeksforgeeks.org/dsa/stack-implementation-using-deque/)
-
-## Implementações em Diferentes Linguagens
-
-- [Stack in C++ STL](https://www.geeksforgeeks.org/cpp/stack-in-cpp-stl/)
-- [Stack in Java](https://www.geeksforgeeks.org/java/stack-java-library/)
-- [Stack in Python](https://www.geeksforgeeks.org/python/stack-in-python/)
-- [Stack in C#](https://www.geeksforgeeks.org/c-sharp/c-sharp-stack-with-examples/)
-- [Stack in JavaScript](https://www.geeksforgeeks.org/javascript/implementation-stack-javascript/)
-- [Stack in C](https://www.geeksforgeeks.org/c/implement-stack-in-c/)
+> Para saber mais, acesse: [Geeks for Geeks - Stack Data Structure](https://www.geeksforgeeks.org/dsa/stack-data-structure/)
 
 ## Problemas Fáceis
 
