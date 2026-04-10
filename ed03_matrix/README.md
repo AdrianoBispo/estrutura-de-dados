@@ -1,13 +1,6 @@
-# Estrutura de Dados Matriz
-
 ![Guia Visual sobre Matrizes em Estruturas de Dados](../infograficos/Dominando%20a%20Estrutura%20de%20Dados%20Matrix.png)
 
-Matriz é uma estrutura bidimensional organizada em linhas e colunas. É amplamente usada em matemática, computação gráfica e processamento de dados, permitindo armazenamento e manipulação estruturada de informações.
-
-## Fundamentos
-
-- [Representation and Basic Operations](https://www.geeksforgeeks.org/dsa/introduction-to-matrix-or-grid-data-structure-and-algorithms-tutorial/)
-- [Row-wise vs column-wise traversal](https://www.geeksforgeeks.org/dsa/row-wise-vs-column-wise-traversal-matrix/)
+> Para saber mais, acesse: [Geeks for Geeks - Matrix Data Structure](https://www.geeksforgeeks.org/dsa/matrix/)
 
 ## Problemas Básicos
 
