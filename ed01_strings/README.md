@@ -1,5 +1,7 @@
 # Strings em Estruturas de Dados
 
+![Guia Visual sobre Strings em Estruturas de Dados](../infograficos/Dominando%20a%20Estrutura%20de%20Strings.png)
+
 Uma string é uma sequência de caracteres. Os pontos abaixo tornam strings um tema muito relevante em estruturas de dados.
 
 - Conjunto pequeno de elementos: diferentemente de arrays genéricos, strings costumam ter um alfabeto limitado.
