@@ -1,5 +1,7 @@
 # Problemas de Árvores
 
+![Guia Visual sobre a Estrutura de Dados Árvores](../infograficos/O%20Mapa%20das%20Estruturas%20de%20Dados%20Árvores.png)
+
 Esta seção reúne uma lista de problemas frequentes de entrevistas sobre árvores, organizada por nível de dificuldade.
 
 > Para saber mais sobre o assunto, acesse: [Tree Data Structure](https://www.geeksforgeeks.org/dsa/tree-data-structure/)
