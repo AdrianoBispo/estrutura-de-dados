@@ -1,16 +1,6 @@
-# Strings em Estruturas de Dados
-
 ![Guia Visual sobre Strings em Estruturas de Dados](../infograficos/Dominando%20a%20Estrutura%20de%20Strings.png)
 
-Uma string é uma sequência de caracteres. Os pontos abaixo tornam strings um tema muito relevante em estruturas de dados.
-
-- Conjunto pequeno de elementos: diferentemente de arrays genéricos, strings costumam ter um alfabeto limitado.
-- Imutabilidade em muitas linguagens: em Java, Python, JavaScript e C#, strings normalmente são imutáveis.
-- Otimizações frequentes: vários problemas de strings exploram a limitação do conjunto de caracteres para ganhar desempenho.
-
-## Fundamentos
-
-- [Introduction to Strings](https://www.geeksforgeeks.org/dsa/introduction-to-strings-data-structure-and-algorithm-tutorials/)
+> Para saber mais, acesse: [Geeks for Geeks - String in Data Structure](https://www.geeksforgeeks.org/dsa/string-data-structure/)
 
 ## Operações Básicas
 
