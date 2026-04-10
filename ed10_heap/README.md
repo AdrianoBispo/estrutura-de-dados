@@ -1,25 +1,6 @@
-# Estrutura de Dados Heap
-
 ![Guia Visual sobre a Estrutura de Dados Heap](../infograficos/Desvendando%20a%20Estrutura%20de%20Dados%20Heap.png)
 
-Heap é uma árvore binária completa que satisfaz uma propriedade de ordem (mín-heap ou máx-heap). É muito usada na implementação de filas de prioridade.
-
-![min-heap-1.webp](https://media.geeksforgeeks.org/wp-content/uploads/20241105101737867907/min-heap-1.webp)
-![min-heap-2.webp](https://media.geeksforgeeks.org/wp-content/uploads/20241105101737995053/min-heap-2.webp)
-![max-heap-1.webp](https://media.geeksforgeeks.org/wp-content/uploads/20241105101737567635/max-heap-1.webp)
-![max-heap-2.webp](https://media.geeksforgeeks.org/wp-content/uploads/20241105101737719243/max-heap-2.webp)
-
-## Fundamentos
-
-- [Binary Heap](https://www.geeksforgeeks.org/dsa/binary-heap/)
-- [Applications](https://www.geeksforgeeks.org/dsa/applications-of-heap-data-structure/)
-
-## Outros Tipos de Heap
-
-- [Binomial Heap](https://www.geeksforgeeks.org/dsa/binomial-heap-2/)
-- [Fibonacci Heap](https://www.geeksforgeeks.org/dsa/fibonacci-heap-set-1-introduction/)
-- [Leftist Heap](https://www.geeksforgeeks.org/dsa/leftist-tree-leftist-heap/)
-- [K-ary Heap](https://www.geeksforgeeks.org/dsa/k-ary-heap/)
+> Para saber mais, acesse: [Geeks for Geeks - Heap Data Structure](https://www.geeksforgeeks.org/dsa/heap-data-structure/)
 
 ## Problemas Fáceis
 
