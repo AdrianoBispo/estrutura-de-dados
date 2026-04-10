@@ -1,5 +1,7 @@
 # Estrutura de Dados Array
 
+![Guia Visual sobre Arrays em Estruturas de Dados](../infograficos/Arrays%20-%20O%20Alicerce%20da%20Eficiência%20Computacional.png)
+
 Array é uma estrutura de dados linear fundamental que armazena elementos em posições contíguas. Em C/C++ e em arrays primitivos de Java, os valores ficam contíguos em memória. Em Python, JavaScript e objetos não primitivos em Java, o que fica contíguo são as referências.
 
 Vantagens principais:
