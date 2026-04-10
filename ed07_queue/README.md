@@ -1,19 +1,6 @@
-# Estrutura de Dados Fila (Queue)
-
 ![Guia Visual sobre a Estrutura de Dados Fila (Queue)](../infograficos/Descomplicando%20a%20Fila%20(Queue)%20-%20O%20Guia%20Visual%20do%20FiFo.png)
 
-Fila é uma estrutura de dados linear baseada no princípio FIFO (First In, First Out): o primeiro elemento que entra é o primeiro que sai.
-
-- Muito usada como buffer em sistemas com diferenças de velocidade entre dispositivos.
-- Também aparece em algoritmos de sistemas operacionais e em percursos como BFS.
-
-## Fundamentos
-
-- [Introduction](https://www.geeksforgeeks.org/dsa/introduction-to-queue-data-structure-and-algorithm-tutorials/)
-- [Applications](https://www.geeksforgeeks.org/dsa/applications-advantages-and-disadvantages-of-queue/)
-- [Basic Operations](https://www.geeksforgeeks.org/dsa/basic-operations-for-queue-in-data-structure/)
-- [Array Implementations](https://www.geeksforgeeks.org/dsa/introduction-and-array-implementation-of-queue/)
-- [Linked List Implementation](https://www.geeksforgeeks.org/dsa/queue-linked-list-implementation/)
+> Para saber mais, acesse: [Geeks for Geeks - Queue Data Structure](https://www.geeksforgeeks.org/dsa/queue-data-structure/)
 
 ## Problemas Fáceis
 
