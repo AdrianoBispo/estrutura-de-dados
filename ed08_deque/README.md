@@ -1,8 +1,8 @@
 # Estrutura de Dados Deque
 
-Deque (Double Ended Queue) é uma generalização da fila que permite inserção e remoção em ambas as extremidades.
+![Guia Visual da Estrutura de Dados Deque (Fila de Duas Pontas)](../infograficos/DEQUE%20-%20A%20Versatilidade%20da%20Fila%20de%20Duas%20Pontas.png)
 
-![Deque](https://media.geeksforgeeks.org/wp-content/uploads/20250701150127717176/Deque.webp "Click to enlarge")
+Deque (Double Ended Queue) é uma generalização da fila que permite inserção e remoção em ambas as extremidades.
 
 ## Fundamentos
 
