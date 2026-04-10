@@ -1,27 +1,6 @@
-# Hashing em Estruturas de Dados
-
 ![Guia Visual sobre Hashing em Estruturas de Dados](../infograficos/Estrutura%20de%20Dados%20Hashing.png)
 
-Hashing é uma técnica que permite armazenar e recuperar dados de forma eficiente, oferecendo acesso rápido por chave.
-
-- O hashing mapeia dados para um índice específico de uma tabela hash por meio de uma função hash.
-- Em média, busca, inserção e remoção podem ser executadas em `O(1)`.
-- É muito usado para conjuntos (apenas chaves) e dicionários (pares chave-valor).
-
-Exemplo de função hash usando módulo:
-
-```text
-H(x) = x % 10
-```
-
-![frame_3274](https://media.geeksforgeeks.org/wp-content/uploads/20251028105244343018/frame_3274.webp "Click to enlarge")
-
-## Fundamentos
-
-- [Introduction](https://www.geeksforgeeks.org/dsa/introduction-to-hashing-2/)
-- [Applications](https://www.geeksforgeeks.org/dsa/applications-of-hashing/)
-- [Separate Chaining for Collision Handling](https://www.geeksforgeeks.org/dsa/separate-chaining-collision-handling-technique-in-hashing/)
-- [Open Addressing for Collision Handling](https://www.geeksforgeeks.org/dsa/open-addressing-collision-handling-technique-in-hashing/)
+> Para saber mais, acesse: [Geeks for Geeks - Hashing in Data Structure](https://www.geeksforgeeks.org/dsa/hashing-data-structure/)
 
 ## Problemas Fáceis
 
