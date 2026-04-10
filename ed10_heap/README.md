@@ -1,5 +1,7 @@
 # Estrutura de Dados Heap
 
+![Guia Visual sobre a Estrutura de Dados Heap](../infograficos/Desvendando%20a%20Estrutura%20de%20Dados%20Heap.png)
+
 Heap é uma árvore binária completa que satisfaz uma propriedade de ordem (mín-heap ou máx-heap). É muito usada na implementação de filas de prioridade.
 
 ![min-heap-1.webp](https://media.geeksforgeeks.org/wp-content/uploads/20241105101737867907/min-heap-1.webp)
