@@ -1,5 +1,7 @@
 # Hashing em Estruturas de Dados
 
+![Guia Visual sobre Hashing em Estruturas de Dados](../infograficos/Estrutura%20de%20Dados%20Hashing.png)
+
 Hashing é uma técnica que permite armazenar e recuperar dados de forma eficiente, oferecendo acesso rápido por chave.
 
 - O hashing mapeia dados para um índice específico de uma tabela hash por meio de uma função hash.
