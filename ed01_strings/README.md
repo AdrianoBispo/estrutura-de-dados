@@ -1,8 +1,10 @@
 ![Guia Visual sobre Strings em Estruturas de Dados](../infograficos/Dominando%20a%20Estrutura%20de%20Strings.png)
 
-> Para saber mais, acesse: [Geeks for Geeks - String in Data Structure](https://www.geeksforgeeks.org/dsa/string-data-structure/)
+> Estude de maneira resumida e visual por meio do slide [Estrutura de Dados Strings](./Estrutura%20de%20Dados%20Strings.pdf) ou acesse [Geeks for Geeks - String in Data Structure](Estrutura%20de%20Dados%20Strings.pdf) para estudar com maior profundidade. 
 
-## Operações Básicas
+## Lista de Exercícios
+
+### Operações Básicas
 
 - [Length of a String](https://www.geeksforgeeks.org/dsa/find-the-length-of-a-string/)
 - [Check for Same](https://www.geeksforgeeks.org/dsa/program-to-check-if-two-strings-are-same-or-not/)
@@ -14,7 +16,7 @@
 - [Reverse a string](https://www.geeksforgeeks.org/dsa/reverse-a-string/)
 - [Generate all Substrings](https://www.geeksforgeeks.org/dsa/program-print-substrings-given-string/)
 
-## Problemas Fáceis
+### Problemas Fáceis
 
 - [Check for Binary](https://www.geeksforgeeks.org/dsa/check-for-binary-string/)
 - [Camel Case Conversion](https://www.geeksforgeeks.org/dsa/camel-case-given-sentence/)
@@ -27,7 +29,7 @@
 - [Check for K-Anagrams](https://www.geeksforgeeks.org/dsa/check-two-strings-k-anagrams-not/)
 - [URLify a given string](https://www.geeksforgeeks.org/dsa/urlify-a-given-string-replace-spaces/)
 
-## Problemas Médios
+### Problemas Médios
 
 - [First Repeating Character](https://www.geeksforgeeks.org/dsa/find-the-first-repeated-character-in-a-string/)
 - [First Non-Repeating Character](https://www.geeksforgeeks.org/dsa/given-a-string-find-its-first-non-repeating-character/)
@@ -52,7 +54,7 @@
 - [String to mobile numeric keypad sequence](https://www.geeksforgeeks.org/dsa/convert-sentence-equivalent-mobile-numeric-keypad-sequence/)
 - [Shortest path to print a string on screen](https://www.geeksforgeeks.org/dsa/print-shortest-path-print-string-screen/)
 
-## Problemas Difíceis
+### Problemas Difíceis
 
 - [Lexicographic Rank of a String](https://www.geeksforgeeks.org/dsa/lexicographic-rank-of-a-string/)
 - [Multiply Large Numbers](https://www.geeksforgeeks.org/dsa/multiply-large-numbers-represented-as-strings/)
