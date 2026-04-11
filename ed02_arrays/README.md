@@ -1,9 +1,10 @@
 ![Guia Visual sobre Arrays em Estruturas de Dados](../infograficos/Arrays%20-%20O%20Alicerce%20da%20Eficiência%20Computacional.png)
 
-> Para saber mais, acesse: [Geeks for Geeks - Array Data Structure](https://www.geeksforgeeks.org/dsa/array-data-structure-guide/)
+> Estude de maneira resumida e visual por meio do slide [Arrays - A Fita Contínua](./Arrays%20-%20A%20Fita%20Cont%C3%ADnua.pdf) ou acesse [Geeks for Geeks - Array Data Structure](https://www.geeksforgeeks.org/dsa/array-data-structure-guide/) para estudar com maior profundidade.
 
-## Problemas Básicos
+## Lista de Exercícios
 
+### Problemas Fáceis
 - [Print Alternates](https://www.geeksforgeeks.org/dsa/print-alternate-elements-of-an-array/)
 - [Leaders in an array](https://www.geeksforgeeks.org/dsa/leaders-in-an-array/)
 - [Remove Duplicates from Sorted](https://www.geeksforgeeks.org/dsa/remove-duplicates-sorted-array/)
@@ -13,9 +14,6 @@
 - [Zeroes to End](https://www.geeksforgeeks.org/dsa/move-zeroes-end-array/)
 - [Min Increments to Make Equal](https://www.geeksforgeeks.org/dsa/minimum-increment-k-operations-make-elements-equal/)
 - [Min Cost to Make Size 1](https://www.geeksforgeeks.org/dsa/minimum-cost-make-array-size-1-removing-larger-pairs/)
-
-## Problemas Fáceis
-
 - [Second Largest Element](https://www.geeksforgeeks.org/dsa/find-second-largest-element-array/)
 - [Third Largest Element](https://www.geeksforgeeks.org/dsa/third-largest-element-array-distinct-elements/)
 - [Reverse an Array](https://www.geeksforgeeks.org/dsa/program-to-reverse-an-array/)
@@ -35,7 +33,7 @@
 - [Missing Ranges of Numbers](https://www.geeksforgeeks.org/dsa/missing-ranges-of-numbers/)
 - [Sum of all Subarrays](https://www.geeksforgeeks.org/dsa/sum-of-all-subarrays/)
 
-## Problemas Médios
+### Problemas Médios
 
 - [Next Permutation](https://www.geeksforgeeks.org/dsa/next-permutation/)
 - [Majority Element](https://www.geeksforgeeks.org/dsa/majority-element/)
@@ -58,7 +56,7 @@
 - [Minimum Moves To Equalize Array](https://www.geeksforgeeks.org/dsa/minimum-number-increment-operations-make-array-elements-equal/)
 - [Minimum Indices To Equal Even-Odd Sums](https://www.geeksforgeeks.org/dsa/count-ways-to-make-sum-of-odd-and-even-indexed-elements-equal-by-removing-an-array-element/)
 
-## Problemas Difíceis
+### Problemas Difíceis
 
 - [Trapping Rain Water](https://www.geeksforgeeks.org/dsa/trapping-rain-water/)
 - [Maximum Circular Subarray Sum](https://www.geeksforgeeks.org/dsa/maximum-contiguous-circular-sum/)
