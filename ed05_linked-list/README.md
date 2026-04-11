@@ -1,9 +1,10 @@
 ![Guia Visual sobre Lista Encadeada](../infograficos/Desvendando%20a%20Estrutura%20de%20Dados%20Linked%20List.png)
 
-> Para saber mais, acesse: [Geeks for Geeks - Linked List Data Structure](https://www.geeksforgeeks.org/dsa/linked-list-data-structure/)
+> Estude de maneira resumida e visual por meio do slide [Listas Encadeadas na Era do Hardware Moderno](./Listas%20Encadeadas%20na%20Era%20do%20Hardware%20Moderno.pdf) ou acesse [Geeks for Geeks - Linked List Data Structure](https://www.geeksforgeeks.org/dsa/linked-list-data-structure/) para estudar com maior profundidade.
 
-## Operações
+## Lista de Exercícios
 
+### Problemas Fáceis
 - [Length of Linked List](https://www.geeksforgeeks.org/dsa/find-length-of-a-linked-list-iterative-and-recursive/)
 - [Print Linked List](https://www.geeksforgeeks.org/dsa/print-linked-list/)
 - [Search in a Linked List](https://www.geeksforgeeks.org/dsa/search-an-element-in-a-linked-list-iterative-and-recursive/)
@@ -14,9 +15,6 @@
 - [Nth Node from Start](https://www.geeksforgeeks.org/dsa/write-a-function-to-get-nth-node-in-a-linked-list/)
 - [Nth Node from End](https://www.geeksforgeeks.org/dsa/nth-node-from-the-end-of-a-linked-list/)
 - [Size of Doubly Linked List](https://www.geeksforgeeks.org/dsa/program-find-size-doubly-linked-list/)
-
-## Problemas Fáceis
-
 - [Remove every k-th node](https://www.geeksforgeeks.org/dsa/remove-every-k-th-node-linked-list/)
 - [Middle of a Linked List](https://www.geeksforgeeks.org/dsa/write-a-c-function-to-print-the-middle-of-the-linked-list/)
 - [Count Occurrences in a Linked List](https://www.geeksforgeeks.org/dsa/write-a-function-that-counts-the-number-of-times-a-given-int-occurs-in-a-linked-list/)
@@ -30,7 +28,7 @@
 - [Reverse a Singly Linked List](https://www.geeksforgeeks.org/dsa/reverse-a-linked-list/)
 - [Reverse a Doubly Linked List](https://www.geeksforgeeks.org/dsa/reverse-a-doubly-linked-list/)
 
-## Problemas Médios
+### Problemas Médios
 
 - [Swap Nodes in Pairs](https://www.geeksforgeeks.org/dsa/pairwise-swap-elements-of-a-given-linked-list/)
 - [Detect loop in a linked list](https://www.geeksforgeeks.org/dsa/detect-loop-in-a-linked-list/)
@@ -53,7 +51,7 @@
 - [Delete a node with only its pointer given](https://www.geeksforgeeks.org/dsa/given-only-a-pointer-to-a-node-to-be-deleted-in-a-singly-linked-list-how-do-you-delete-it/)
 - [Segregate even and odd nodes](https://www.geeksforgeeks.org/problems/segregate-even-and-odd-nodes-in-a-linked-list5035/1)
 
-## Problemas Difíceis
+### Problemas Difíceis
 
 - [Merge K Sorted Lists](https://www.geeksforgeeks.org/dsa/merge-k-sorted-linked-lists/)
 - [Intersection point of two Linked Lists](https://www.geeksforgeeks.org/dsa/write-a-function-to-get-the-intersection-point-of-two-linked-lists/)
