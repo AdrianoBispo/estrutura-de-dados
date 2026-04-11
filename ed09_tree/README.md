@@ -1,8 +1,10 @@
 ![Guia Visual sobre a Estrutura de Dados Árvores](../infograficos/O%20Mapa%20das%20Estruturas%20de%20Dados%20Árvores.png)
 
-> Para saber mais, acesse: [Geeks for Geeks - Tree Data Structure](https://www.geeksforgeeks.org/dsa/tree-data-structure/)
+> Estude de maneira resumida e visual por meio do slide [O Guia Definitivo - Estrutura de Dados em Árvores](./O%20Guia%20Definitivo%20-%20Estrutura%20de%20Dados%20em%20%C3%81rvores.pdf) ou acesse [Geeks for Geeks - Tree Data Structure](https://www.geeksforgeeks.org/dsa/tree-data-structure/) para estudar com maior profundidade.
 
-## Problemas Fáceis
+## Lista de Exercícios
+
+### Problemas Fáceis
 
 - [Height of Binary Tree](https://www.geeksforgeeks.org/dsa/find-the-maximum-depth-or-height-of-a-tree/)
 - [Identical Trees](https://www.geeksforgeeks.org/dsa/write-c-code-to-determine-if-two-trees-are-identical/)
@@ -16,7 +18,7 @@
 - [Kth Largest Element in a BST](https://www.geeksforgeeks.org/dsa/kth-largest-element-bst-using-constant-extra-space/)
 - [Balance a BST](https://www.geeksforgeeks.org/dsa/convert-normal-bst-balanced-bst/)
 
-## Problemas Médios
+### Problemas Médios
 
 - [Diameter of Tree](https://www.geeksforgeeks.org/dsa/diameter-of-a-binary-tree/)
 - [Check if Subtree](https://www.geeksforgeeks.org/dsa/check-if-a-binary-tree-is-subtree-of-another-binary-tree/)
@@ -41,7 +43,7 @@
 - [Extreme nodes in alternate order](https://www.geeksforgeeks.org/dsa/print-extreme-nodes-of-each-level-of-binary-tree-in-alternate-order/)
 - [Connect nodes at same level](https://www.geeksforgeeks.org/dsa/connect-nodes-at-same-level/)
 
-## Problemas Difíceis
+### Problemas Difíceis
 
 - [Sorted Linked List to BST](https://www.geeksforgeeks.org/dsa/sorted-linked-list-to-balanced-bst/)
 - [Binary Tree to Doubly Linked List](https://www.geeksforgeeks.org/dsa/convert-binary-tree-to-doubly-linked-list-by-keeping-track-of-visited-node/)
