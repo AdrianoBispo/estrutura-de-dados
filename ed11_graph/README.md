@@ -1,8 +1,10 @@
 ![Guia Visual da Estrutura de Dados Grafos](../infograficos/Conectando%20o%20Mundo%20-%20O%20Universo%20dos%20Grafos.png)
 
-> Para saber mais, acesse: [Geeks for Geeks - Graph Algorithms](https://www.geeksforgeeks.org/dsa/graph-data-structure-and-algorithms/)
+> Estude de maneira resumida e visual por meio do slide [A Estrutura de Dados Grafo](./A%20Estrutura%20de%20Dados%20Grafo.pdf) ou acesse [Geeks for Geeks - Graph Algorithms](https://www.geeksforgeeks.org/dsa/graph-data-structure-and-algorithms/) para estudar com maior profundidade.
 
-## Problemas Fáceis
+## Lista de Exercícios
+
+### Problemas Fáceis
 
 - [Breadth First Traversal for a Graph](https://www.geeksforgeeks.org/dsa/breadth-first-search-or-bfs-for-a-graph/)
 - [Depth First Traversal for a Graph](https://www.geeksforgeeks.org/dsa/depth-first-search-or-dfs-for-a-graph/)
@@ -15,7 +17,7 @@
 - [Sum of dependencies in a graph](https://www.geeksforgeeks.org/dsa/sum-dependencies-graph/)
 - [Maximum Weight Node](https://www.geeksforgeeks.org/dsa/maximum-weight-node/)
 
-## Problemas Médios
+### Problemas Médios
 
 - [Transitive Closure of a Graph using DFS](https://www.geeksforgeeks.org/dsa/transitive-closure-of-a-graph-using-dfs/)
 - [Rotten Tomatoes](https://www.geeksforgeeks.org/dsa/minimum-time-required-so-that-all-oranges-become-rotten/)
@@ -86,7 +88,7 @@
 - [Number of sink nodes in a graph](https://www.geeksforgeeks.org/dsa/number-sink-nodes-graph/)
 - [Two Clique Problem (Check if Graph can be divided in two Cliques)](https://www.geeksforgeeks.org/dsa/two-clique-problem-check-graph-can-divided-two-cliques/)
 
-## Problemas Difíceis
+### Problemas Difíceis
 
 - [Pacific Atlantic Water Flow](https://www.geeksforgeeks.org/dsa/atlantic-pacific-water-flow/)
 - [Total number of Spanning Trees in a Graph](https://www.geeksforgeeks.org/dsa/total-number-spanning-trees-graph/)
