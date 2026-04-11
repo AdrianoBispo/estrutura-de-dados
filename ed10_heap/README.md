@@ -1,8 +1,10 @@
 ![Guia Visual sobre a Estrutura de Dados Heap](../infograficos/Desvendando%20a%20Estrutura%20de%20Dados%20Heap.png)
 
-> Para saber mais, acesse: [Geeks for Geeks - Heap Data Structure](https://www.geeksforgeeks.org/dsa/heap-data-structure/)
+> Estude de maneira resumida e visual por meio do slide [Estrutura de Dados Heap](./Estrutura%20de%20Dados%20Heap.pdf) ou acesse [Geeks for Geeks - Heap Data Structure](https://www.geeksforgeeks.org/dsa/heap-data-structure/) para estudar com maior profundidade.
 
-## Problemas Fáceis
+## Lista de Exercícios
+
+### Problemas Fáceis
 
 - [Check if an array is Heap?](https://www.geeksforgeeks.org/dsa/how-to-check-if-a-given-array-represents-a-binary-heap/)
 - [K’th Smallest](https://www.geeksforgeeks.org/dsa/kth-smallest-largest-element-in-unsorted-array/) & [K'th Largest](https://www.geeksforgeeks.org/dsa/kth-largest-element-in-an-array/)
@@ -10,7 +12,7 @@
 - [Heap Sort for Decreasing Order](https://www.geeksforgeeks.org/dsa/heap-sort-for-decreasing-order-using-min-heap/)
 - [Height of a Heap with N Nodes](https://www.geeksforgeeks.org/dsa/height-complete-binary-tree-heap-n-nodes/)
 
-## Problemas Médios
+### Problemas Médios
 
 - [Nearly Sorted Array](https://www.geeksforgeeks.org/dsa/nearly-sorted-algorithm/)
 - [K Largest Elements](https://www.geeksforgeeks.org/dsa/k-largestor-smallest-elements-in-an-array/) & [K Smallest](https://www.geeksforgeeks.org/dsa/find-k-smallest-elements-in-an-array/)
@@ -29,7 +31,7 @@
 - [BST to Min Heap](https://www.geeksforgeeks.org/dsa/convert-bst-min-heap/)
 - [K Closest Points to the Origin](https://www.geeksforgeeks.org/dsa/find-k-closest-points-to-the-origin/)
 
-## Problemas Difíceis
+### Problemas Difíceis
 
 - [The Skyline Problem](https://www.geeksforgeeks.org/dsa/the-skyline-problem-using-divide-and-conquer-algorithm/)
 - [Median in a stream](https://www.geeksforgeeks.org/dsa/median-of-stream-of-integers-running-integers/)
