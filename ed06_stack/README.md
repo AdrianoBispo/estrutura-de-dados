@@ -1,4 +1,4 @@
-![usecases_of_stack232.webp](https://media.geeksforgeeks.org/wp-content/uploads/20250708173836670891/usecases_of_stack232.webp)
+![Infográfico - Estrutura de Dados Pilha (Stack)](../infograficos/Estrutura%20de%20Dados%20Pilha%20(Stack).png)
 
 > Para saber mais, acesse: [Geeks for Geeks - Stack Data Structure](https://www.geeksforgeeks.org/dsa/stack-data-structure/)
 
