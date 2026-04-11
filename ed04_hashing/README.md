@@ -1,8 +1,10 @@
 ![Guia Visual sobre Hashing em Estruturas de Dados](../infograficos/Estrutura%20de%20Dados%20Hashing.png)
 
-> Para saber mais, acesse: [Geeks for Geeks - Hashing in Data Structure](https://www.geeksforgeeks.org/dsa/hashing-data-structure/)
+> Estude de maneira resumida e visual por meio do slide [Estrutura de Dados Hashing](./Estrutura%20de%20Dados%20Hashing.pdf) ou acesse [Geeks for Geeks - Hashing in Data Structure](https://www.geeksforgeeks.org/dsa/hashing-data-structure/) para estudar com maior profundidade.
 
-## Problemas Fáceis
+## Lista de Exercícios
+
+### Problemas Fáceis
 
 - [Check tor Subset](https://www.geeksforgeeks.org/dsa/find-whether-an-array-is-subset-of-another-array-set-1/)
 - [Check for Disjoint](https://www.geeksforgeeks.org/dsa/check-two-given-sets-disjoint/)
@@ -23,7 +25,7 @@
 - [Minimum Removals for No Common](https://www.geeksforgeeks.org/dsa/remove-minimum-number-elements-no-common-element-exist-array/)
 - [Maximum points on the same line](https://www.geeksforgeeks.org/dsa/count-maximum-points-on-same-line/)
 
-## Problemas Médios
+### Problemas Médios
 
 - [Pair Sums Divisible by k](https://www.geeksforgeeks.org/dsa/check-if-an-array-can-be-divided-into-pairs-whose-sum-is-divisible-by-k/)
 - [Subarray with sum divisible by k](https://www.geeksforgeeks.org/dsa/longest-subarray-sum-divisible-k/)
@@ -45,7 +47,7 @@
 - [Group words with same set of characters](https://www.geeksforgeeks.org/dsa/print-words-together-set-characters/)
 - [k-th distinct (or non-repeating)](https://www.geeksforgeeks.org/dsa/k-th-distinct-or-non-repeating-element-in-an-array/)
 
-## Problemas Difíceis
+### Problemas Difíceis
 
 - [Represent Fraction as String](https://www.geeksforgeeks.org/dsa/represent-the-fraction-of-two-numbers-in-the-string-format/)
 - [4 Sum – Count quadruplets](https://www.geeksforgeeks.org/dsa/count-quadruplets-with-sum-k-from-given-array/)
