@@ -1,9 +1,10 @@
 ![Guia Visual da Estrutura de Dados Deque (Fila de Duas Pontas)](../infograficos/DEQUE%20-%20A%20Versatilidade%20da%20Fila%20de%20Duas%20Pontas.png)
 
-> Para saber mais, acesse: [Geeks for Geeks - Deque Data Structure](https://www.geeksforgeeks.org/dsa/deque-set-1-introduction-applications/)
+> Estude de maneira resumida e visual por meio do slide [A Engenharia da Fila Duplamente Terminada](./A%20Engenharia%20da%20Fila%20Duplamente%20Terminada.pdf) ou acesse [Geeks for Geeks - Deque Data Structure](https://www.geeksforgeeks.org/dsa/deque-set-1-introduction-applications/) para estudar com maior profundidade.
 
+## Lista de Exercícios
 
-## Problemas Fáceis
+### Problemas Fáceis
 
 - [Minimize Maximum Adjacent Difference](https://www.geeksforgeeks.org/dsa/minimize-the-maximum-difference-between-adjacent-elements-in-an-array/)
 - [Substring with Maximum Frequency](https://www.geeksforgeeks.org/dsa/substring-of-length-k-having-maximum-frequency-in-the-given-string/)
@@ -14,7 +15,7 @@
 - [Lexicographically largest permutation](https://www.geeksforgeeks.org/dsa/lexicographically-largest-permutation-by-sequentially-inserting-array-elements-at-ends/)
 - [Check if Strings Can Be Made Equal](https://www.geeksforgeeks.org/dsa/check-if-given-strings-can-be-made-equal-by-inserting-at-most-1-string/)
 
-## Problemas Médios
+### Problemas Médios
 
 - [Implement Stack and Queue using Deque](https://www.geeksforgeeks.org/dsa/implement-stack-queue-using-deque/)
 - [Generate Bitonic Sequence](https://www.geeksforgeeks.org/dsa/generate-bitonic-sequence-of-length-n-from-integers-in-a-given-range/)
