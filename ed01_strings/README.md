@@ -4,8 +4,7 @@
 
 ## Lista de Exercícios
 
-### Operações Básicas
-
+### Problemas Fáceis
 - [Length of a String](https://www.geeksforgeeks.org/dsa/find-the-length-of-a-string/)
 - [Check for Same](https://www.geeksforgeeks.org/dsa/program-to-check-if-two-strings-are-same-or-not/)
 - [Search a Character](https://www.geeksforgeeks.org/dsa/program-to-search-a-character-in-a-string/)
@@ -15,9 +14,6 @@
 - [Concatenating Two Strings](https://www.geeksforgeeks.org/computer-science-fundamentals/concatenation-of-two-strings/)
 - [Reverse a string](https://www.geeksforgeeks.org/dsa/reverse-a-string/)
 - [Generate all Substrings](https://www.geeksforgeeks.org/dsa/program-print-substrings-given-string/)
-
-### Problemas Fáceis
-
 - [Check for Binary](https://www.geeksforgeeks.org/dsa/check-for-binary-string/)
 - [Camel Case Conversion](https://www.geeksforgeeks.org/dsa/camel-case-given-sentence/)
 - [Substrings with Corners as 1s](https://www.geeksforgeeks.org/dsa/given-binary-string-count-number-substrings-start-end-1/)
