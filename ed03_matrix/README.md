@@ -1,9 +1,10 @@
 ![Guia Visual sobre Matrizes em Estruturas de Dados](../infograficos/Dominando%20a%20Estrutura%20de%20Dados%20Matrix.png)
 
-> Para saber mais, acesse: [Geeks for Geeks - Matrix Data Structure](https://www.geeksforgeeks.org/dsa/matrix/)
+> Estude de maneira resumida e visual por meio do slide [A Engenharia Algorítmica das Matrizes](./A%20Engenharia%20Algor%C3%ADtmica%20das%20Matrizes.pdf) ou acesse [Geeks for Geeks - Matrix Data Structure](https://www.geeksforgeeks.org/dsa/matrix/) para estudar com maior profundidade.
 
-## Problemas Básicos
+## Lista de Exercícios
 
+### Problemas Fáceis
 - [Search in a Matrix](https://www.geeksforgeeks.org/dsa/search-in-a-matrix-or-2d-array/)
 - [Addition](https://www.geeksforgeeks.org/dsa/program-addition-two-matrices/), [Subtraction](https://www.geeksforgeeks.org/dsa/program-subtraction-matices/) & [Multiplication](https://www.geeksforgeeks.org/dsa/strassens-matrix-multiplication/)
 - [Sort the given matrix](https://www.geeksforgeeks.org/dsa/sort-given-matrix/)
@@ -12,9 +13,6 @@
 - [Transpose of a matrix](https://www.geeksforgeeks.org/dsa/program-to-find-transpose-of-a-matrix/)
 - [Determinant of a Matrix](https://www.geeksforgeeks.org/dsa/determinant-of-a-matrix/)
 - [Adjoint and Inverse of a Matrix](https://www.geeksforgeeks.org/dsa/adjoint-inverse-matrix/)
-
-## Problemas Fáceis
-
 - [Valid Suduku](https://www.geeksforgeeks.org/dsa/check-if-given-sudoku-board-configuration-is-valid-or-not/)
 - [Validate Tic Tac Toe](https://www.geeksforgeeks.org/dsa/validity-of-a-given-tic-tac-toe-board-configuration/)
 - [The Celebrity Problem](https://www.geeksforgeeks.org/dsa/the-celebrity-problem/)
@@ -29,7 +27,7 @@
 - [Toeplit Matrix](https://www.geeksforgeeks.org/dsa/find-if-given-matrix-is-toeplitz-or-not/)
 - [Possible moves of knight](https://www.geeksforgeeks.org/dsa/possible-moves-knight/)
 
-## Problemas Médios
+### Problemas Médios
 
 - [Conway’s Game Of Life](https://www.geeksforgeeks.org/dsa/program-for-conways-game-of-life/)
 - [Rotate a matrix by 90](https://www.geeksforgeeks.org/dsa/rotate-matrix-90-degree-without-using-extra-space-set-2/)
@@ -45,7 +43,7 @@
 - [Minimum flip to make Binary Matrix symmetric](https://www.geeksforgeeks.org/dsa/minimum-flip-required-make-binary-matrix-symmetric/)
 - [Magic Square](https://www.geeksforgeeks.org/dsa/magic-square/)
 
-## Problemas Difíceis
+### Problemas Difíceis
 
 - [Median in a Row-Wise Sorted](https://www.geeksforgeeks.org/dsa/find-median-row-wise-sorted-matrix/)
 - [A Boolean Matrix Question](https://www.geeksforgeeks.org/dsa/a-boolean-matrix-question/)
