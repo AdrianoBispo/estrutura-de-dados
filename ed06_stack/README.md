@@ -1,8 +1,10 @@
 ![Infográfico - Estrutura de Dados Pilha (Stack)](../infograficos/Estrutura%20de%20Dados%20Pilha%20(Stack).png)
 
-> Para saber mais, acesse: [Geeks for Geeks - Stack Data Structure](https://www.geeksforgeeks.org/dsa/stack-data-structure/)
+> Estude de maneira resumida e visual por meio do slide [O Paradigma LIFO - A Anatomia da Estrutura de Dados Pilha](./O%20Paradigma%20LIFO%20-%20A%20Anatomia%20da%20Estrutura%20de%20Dados%20Pilha.pdf) ou acesse [Geeks for Geeks - Stack Data Structure](https://www.geeksforgeeks.org/dsa/stack-data-structure/) para estudar com maior profundidade.
 
-## Problemas Fáceis
+## Lista de Exercícios
+
+### Problemas Fáceis
 
 - [The Celebrity Problem](https://www.geeksforgeeks.org/dsa/the-celebrity-problem/)
 - [Queue using Stacks](https://www.geeksforgeeks.org/dsa/queue-using-stacks/)
@@ -19,7 +21,7 @@
 - [Reversing the first K of a Queue](https://www.geeksforgeeks.org/dsa/reversing-first-k-elements-queue/)
 - [A DS with O(1) Operations](https://www.geeksforgeeks.org/dsa/create-customized-data-structure-evaluates-functions-o1/)
 
-## Problemas Médios
+### Problemas Médios
 
 - [k Stacks in an Array](https://www.geeksforgeeks.org/dsa/efficiently-implement-k-stacks-single-array/)
 - [Mergable Stack](https://www.geeksforgeeks.org/dsa/create-mergable-stack/)
@@ -41,7 +43,7 @@
 - [Max Diff between nearest left and right smaller](https://www.geeksforgeeks.org/dsa/find-maximum-difference-between-nearest-left-and-right-smaller-elements/)
 - [Delete consecutive same words](https://www.geeksforgeeks.org/dsa/delete-consecutive-words-sequence/)
 
-## Problemas Difíceis
+### Problemas Difíceis
 
 - [Largest Rectangle in a Histogram](https://www.geeksforgeeks.org/dsa/largest-rectangular-area-in-a-histogram-using-stack/)
 - [Sum of Max of all Subarrays](https://www.geeksforgeeks.org/dsa/sum-of-maximum-elements-of-all-possible-sub-arrays-of-an-array/)
