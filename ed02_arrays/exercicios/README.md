@@ -3,7 +3,7 @@
 Este documento contém uma lista completa de exercícios focados na manipulação de Arrays (Vetores), divididos por nível de dificuldade. O objetivo principal é fortalecer a lógica de programação. O passo a passo descreve o fluxo algorítmico sem se prender a uma linguagem específica, permitindo que você implemente a solução na linguagem de sua preferência (C, C++, Java, Python, Javascript, etc.).
 
 <details>
-<summary><strong>🟢 Nível 1 - Fácil (12 exercícios)</strong></summary>
+<summary><strong>🟢 Nível 1 - Fácil</strong></summary>
 
 ### 1. Imprimir Elementos Alternados
 
@@ -337,7 +337,7 @@ Este documento contém uma lista completa de exercícios focados na manipulaçã
 </details>
 
 <details>
-<summary><strong>🟠 Nível 2 - Médio (20 exercícios)</strong></summary>
+<summary><strong>🟠 Nível 2 - Médio</strong></summary>
 
 ### 28. Próxima Permutação
 
@@ -594,7 +594,7 @@ Este documento contém uma lista completa de exercícios focados na manipulaçã
 </details>
 
 <details>
-<summary><strong>🔴 Nível 3 - Difícil (10 exercícios)</strong></summary>
+<summary><strong>🔴 Nível 3 - Difícil</strong></summary>
 
 ### 48. Retenção de Água da Chuva
 
